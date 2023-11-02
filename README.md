@@ -1,11 +1,9 @@
-# Ali Raza
+# About ME
 
 ## Personal Information
 
 - **Name:** Ali Raza
 - **Major:** Machine Learning
-
-## About Me
 
 I am a passionate individual with a strong interest in the field of Machine Learning. I am dedicated to learning and applying cutting-edge techniques to solve real-world problems. I believe in the power of data and its potential to transform the way we understand and interact with the world.
 
