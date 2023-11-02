@@ -18,7 +18,7 @@ Feel free to reach out if you want to connect, discuss Machine Learning, or expl
 You can find me on social media:
 
 
-- [LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/ali-raza05))
+- [LinkedIn](https://www.linkedin.com/in/ali-raza05)
 - [Instagram](https://www.instagram.com/aalleyy.xd/)
 - [Twitter](https://twitter.com/aalleyy5)
 
